@@ -78,7 +78,7 @@ This is a community-maintained Project Lazarus build and is not affiliated with 
 
 # Changelog
 
-## Version 2.3.55
+## Version 1.0.0
 
 - Added Project Lazarus support improvements
 - Improved heal spell parsing
